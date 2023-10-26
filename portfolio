@@ -25,9 +25,9 @@
     <div class="circle"></div> 
     <div class="data"> 
      <h3>Who am I?</h3> 
-     <h5>I am Your name , a Tech Student.</h5> 
+     <h5>I am Student of Bharat Intern.</h5> 
     </div> 
-   </div>
+   </div> 
   </section> 
   <section class="Skills" id="Skills"> 
    <h2 class="heads">Qualifications</h2> 
@@ -47,42 +47,42 @@
         <td class="col storage">Grade</td> 
        </tr> 
        <tr> 
-        <td class="col">Hindi Core</td> 
+        <td class="col">Telugu</td> 
         <td class="col">27</td> 
         <td class="col">37</td> 
         <td class="col">94</td> 
         <td class="col">A+</td> 
        </tr> 
        <tr> 
-        <td class="col">Maths</td> 
+        <td class="col">Hindi</td> 
         <td class="col">59</td> 
         <td class="col">99</td> 
         <td class="col">03</td> 
         <td class="col">B+</td> 
        </tr> 
        <tr> 
-        <td class="col">Science</td> 
+        <td class="col">English</td> 
         <td class="col">55</td> 
         <td class="col">2</td> 
         <td class="col">81</td> 
         <td class="col">B</td> 
        </tr> 
        <tr> 
-        <td class="col">Social Science</td> 
+        <td class="col">Maths</td> 
         <td class="col">91</td> 
         <td class="col">10</td> 
         <td class="col">99</td> 
         <td class="col">A</td> 
        </tr> 
        <tr> 
-        <td class="col">English</td> 
+        <td class="col">Physics</td> 
         <td class="col">94</td> 
         <td class="col">08</td> 
         <td class="col">82</td> 
         <td class="col">B</td> 
        </tr> 
        <tr> 
-        <td class="col">Information Technology</td> 
+        <td class="col">Biology</td> 
         <td class="col">30</td> 
         <td class="col">40</td> 
         <td class="col">70</td> 
@@ -90,7 +90,7 @@
        </tr> 
        <tr class="store"> 
         <td class="col store" colspan="4">Grand total</td> 
-        <td class="col store">289/500</td> 
+        <td class="col store">523/600</td> 
        </tr> 
       </tbody> 
      </table> 
@@ -110,42 +110,42 @@
         <td class="cole storage">Grade</td> 
        </tr> 
        <tr> 
-        <td class="cole">Hindi Core</td> 
+        <td class="cole">Telugu</td> 
         <td class="cole">99</td> 
         <td class="cole">18</td> 
         <td class="cole">97</td> 
         <td class="cole">B</td> 
        </tr> 
        <tr> 
-        <td class="cole">Maths</td> 
+        <td class="cole">Sanskrit</td> 
         <td class="cole">05</td> 
         <td class="cole">20</td> 
         <td class="cole">05</td> 
         <td class="cole">A+</td> 
        </tr> 
        <tr> 
-        <td class="cole">Physics</td> 
+        <td class="cole">Maths</td> 
         <td class="cole">91</td> 
         <td class="cole">98</td> 
         <td class="cole">09</td> 
         <td class="cole">B</td> 
        </tr> 
        <tr> 
-        <td class="cole">Chemistry</td> 
+        <td class="cole">physics</td> 
         <td class="cole">80</td> 
         <td class="cole">29</td> 
         <td class="cole">99</td> 
         <td class="cole">B</td> 
        </tr> 
        <tr> 
-        <td class="cole">English</td> 
+        <td class="cole">Chemistry</td> 
         <td class="cole">94</td> 
         <td class="cole">99</td> 
         <td class="cole">93</td> 
         <td class="cole">B+</td> 
        </tr> 
        <tr> 
-        <td class="cole">Information Technology</td> 
+        <td class="cole">English </td> 
         <td class="cole">30</td> 
         <td class="cole">90</td> 
         <td class="cole">70</td> 
@@ -153,7 +153,7 @@
        </tr> 
        <tr class="store"> 
         <td class="cole store" colspan="4">Grand total</td> 
-        <td class="cole store">123/500</td> 
+        <td class="cole store">496/600</td> 
        </tr> 
       </tbody> 
      </table> 
@@ -214,7 +214,7 @@
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1rbCLawQeRxqjEmwvfRDQ6rP9kILrNbzyw&amp;usqp=CAU"> <a href="">@gmail.com</a> 
     </div> 
    </div> 
-   <h4 class="heads2">Copyright © | </h4> 
+   <h4 class="heads2">Copyright❌ | </h4> 
   </section> 
  </body>
 </html>
@@ -789,4 +789,3 @@ nav a:hover{
   text-align:center;
 }
 }
-
